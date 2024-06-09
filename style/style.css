@@ -363,10 +363,11 @@ margin-bottom: 100px;
 .Wellness{
     margin-left: auto;
     margin-right: auto;
-    width: 1320px;
-    height:496px;  
+    width: 1440px;  
     display: flex;
-    justify-content: space-between;   
+    justify-content: space-around;   
+    background-color: rgba(246, 246, 210, 0.24);
+    padding: 100px;
 }
 .img-size3{
     position: absolute;
@@ -375,11 +376,14 @@ height:496px;
 border-radius: 30px; 
 }
 .white-div3{
+    position: relative;
     width:424px;
     height:496px;
     border-radius: 16px; 
+   
 }
 .supplements{
+    color: white;
 font-family: 'Value-regular';
 font-size: 20px;
 font-weight: 400;
@@ -389,6 +393,7 @@ text-align: left;
 
 }
 .minute{
+    color: white;
     font-family: 'Inter';
 font-size: 16px;
 font-weight: 300;
@@ -396,6 +401,130 @@ line-height: 24px;
 text-align: left;
 }
 .clock{
+color: rgb(255, 255, 255);
 width: 18px;
 height: 18px;
+margin-right: 10px;
+}
+.minimalist{
+position: absolute;
+width: 348px;
+height: 92px;
+padding: 400px 38px;
+}
+.clock-div{
+display: flex;
+align-items: center;
+}
+.minimalist1{
+    position: absolute;
+    width: 348px;
+    height: 92px;
+    padding: 380px 38px;
+    }
+    .footer-div{
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        width: 1440px;
+        display: flex;
+        justify-items: flex-start;
+    }
+    .footer-img{
+        position: absolute;
+        width: 720px;
+        height: 800px;
+    }
+    .footer-rel{
+    width: 720px;
+    display: flex;
+    flex-direction: column;
+    }
+    .footer-folow{ 
+        position: absolute;
+        font-family: 'Inter';
+font-size: 16px;
+font-weight: 500;
+line-height: 19.36px;
+letter-spacing: 4px;
+text-align: center;
+
+    }
+    .footer-meet{
+        margin-top: 15px;
+        position: absolute;
+        font-family: "Value";
+font-size: 48px;
+font-weight: 400;
+line-height: 57.6px;
+text-align: center;
+
+    }
+    .footer-join{
+        position: absolute;
+        font-family: 'GT Walsheim regular';
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.01em;
+text-align: center;
+margin-top: 85px;
+    }
+    .footer-column{
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 120px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        width: 500px;
+    }
+    .soc-div{
+        margin-top: 160px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      width: 191px;
+    
+    }
+    .minsoc-div{
+        margin-bottom: 50px;
+        width: 191px;
+        height:60px ;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .meta-div{
+        display: flex;
+        flex-direction: column;
+       width: 129px; 
+    }
+    .meta-img{
+        width: 32px;
+        height: 32px;
+    }
+    .meta-title{
+font-family: "GT Walsheim Pro";
+font-size: 28px;
+font-weight: 500;
+line-height: 32.06px;
+text-align: left;
+
+    }
+ 
+    .address{
+font-family: 'GT Walsheim regular';
+font-size: 16px;
+font-weight: 400;
+line-height: 23.4px;
+text-align: left;
+
+    }
+.brend{
+position: absolute;
+width: 275px;
+display: flex;
+margin-top: 600px;
 }
