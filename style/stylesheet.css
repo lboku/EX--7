@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "GT Walsheim Pro";
+  src: url("../font/GTWalsheimProBold.eot");
+  src: url("../font/GTWalsheimProBold.eot?#iefix") format("embedded-opentype"),
+    url("../font/GTWalsheimProBold.woff2") format("woff2"),
+    url("../font/GTWalsheimProBold.woff") format("woff"),
+    url("../font/GTWalsheimProBold.svg#GTWalsheimProBold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Value";
+  src: url("../font/Value-Serif.eot");
+  src: url("../font/Value-Serif.eot?#iefix") format("embedded-opentype"),
+    url("../font/Value-Serif.woff2") format("woff2"),
+    url("../font/Value-Serif.woff") format("woff"),
+    url("../font/Value-Serif.svg#Value-Serif") format("svg");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+    font-family: 'Value-regular';
+    src: url('../font/Value.eot');
+    src: url('../font/Value.eot?#iefix') format('embedded-opentype'),
+        url('../font/Value.woff2') format('woff2'),
+        url('../font/Value.woff') format('woff'),
+        url('../font/Value.svg#Value') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'GT Walsheim regular';
+    src: url('../font/GTWalsheimProRegular.eot');
+    src: url('../font/GTWalsheimProRegular.eot?#iefix') format('embedded-opentype'),
+        url('../font/GTWalsheimProRegular.woff2') format('woff2'),
+        url('../font/GTWalsheimProRegular.woff') format('woff'),
+        url('../font/GTWalsheimProRegular.svg#GTWalsheimProRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('../font/Inter-Regular.eot');
+    src: url('../font/Inter-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/Inter-Regular.woff2') format('woff2'),
+        url('../font/Inter-Regular.woff') format('woff'),
+        url('../font/Inter-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
